@@ -3,6 +3,8 @@ Top Class Block chain Project for Final Year students. Easy Implementation and D
 
 **Blockchain** is an immutable, sequential, contimous chain of records called Blocks. They can contain transactions, records, files or any data you like, really. Most important thing is that they’re chained together using hashes.
 
+### PPT: [Link](https://github.com/Vatshayan/Blockchain-Final-Year-Project/blob/main/Blockchain%20Money%20PPT.pdf)
+
 
 ### NEED:
 Make sure that Python 3.6+ (along with pip) is installed. You’ll also need to install Flask and the wonderful Requests library:
